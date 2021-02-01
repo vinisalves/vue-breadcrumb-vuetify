@@ -1,7 +1,7 @@
 # breadcrumb
 
 ## Example
-![] (example.gif) 
+![](example.gif) 
 
 ## Project setup
 ```
